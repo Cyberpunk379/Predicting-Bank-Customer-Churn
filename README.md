@@ -35,6 +35,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 - Humphrey Afobhokhan - (mailto:humphreyafobz2014@gmail.com)
-- Project Link: (https://github.com/Cyberpunk379/Predicting-Bank-Customer-Churn) 
+- Project Link: (https://github.com/Cyberpunk379/Predicting-Bank-Customer-Churn)  
 
 
