@@ -13,7 +13,7 @@ library(Amelia)
 
 #import and read file
 getwd()
-setwd("/Users/badboihy/Downloads/Visualizing & Analyzing Data with R - Methods & Tools/projects/Predicting Bank Customer Churn- A Machine Learning Approach")
+setwd("/Users/badboihy/project/Bank Customer Churn - A Machine Learning Approach")
 getwd()
 df.train <- read.csv('BankChurnDataset-2.csv')
 head(df.train)
